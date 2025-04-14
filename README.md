@@ -4,7 +4,7 @@
 
 Visually build and solve complex 2D pipe networks to determine which sinks (drains) are reachable from a single source. This project provides an interactive web application built with Vite.js and JavaScript.
 
-![Screenshot Placeholder]()
+![Screenshot Placeholder](https://github.com/user-attachments/assets/07fb1d44-8997-426a-994c-5ccc5339b1ca)
 
 ---
 
