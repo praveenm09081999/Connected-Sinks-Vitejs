@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import GridTable from "./components/grid-constructor/gridTable";
+import GridTable from "./components/grid-constructor/GridTable.jsx";
 
 function App() {
   const [grid, setGrid] = useState(

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import PropTypes from "prop-types";
-import determineConnectedSinks from "../grid-solve/connected_sinks";
+import determineConnectedSinks from "../grid-solve/connected_sinks.js";
 
 const GridTable = ({ grid, setGrid }) => {
   const [solution, setSolution] = useState(null);
